@@ -31,7 +31,7 @@ def mostrar_menu():
         '10': 'Semana 07_Tarea_Constructores y Destructores/Uso de constructor.py',
         '11': 'Semana 07_Tarea_Constructores y Destructores/Uso del destructor.py',
 
-        # Agrega aquí el resto de las rutas de los scripts
+        # Rutas de los scripts de las semanas de clase
     }
 
     while True:
