@@ -1,0 +1,6 @@
+a,pan,45,0.2
+3,chocolate,2,6.0
+5,caramelo,10,4.0
+8,gomitas,9,2.0
+60,chupetes,50,8.0
+90,galletas ,40,7.0
