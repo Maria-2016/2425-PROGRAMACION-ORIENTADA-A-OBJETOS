@@ -11,7 +11,7 @@ class Aplicacion:
         self.ventana.geometry("400x300")
 
         # Configuración de la ventana
-        self.etiqueta = tk.Label(ventana, text="Ingrese un dato:")
+        self.etiqueta = tk.Label(ventana, text="INGRESE UN DATO:")
         self.etiqueta.pack(pady=5)
 
         # Entrada de texto
